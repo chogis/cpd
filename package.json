@@ -2,8 +2,8 @@
   "name": "cpd",
   "version": "0.0.1",
   "description": "",
-  "productName": "Quasar App",
-  "author": "add.your.email@here.com",
+  "productName": "Cashpower Demo",
+  "author": "info@nawec.gm",
   "private": true,
   "scripts": {
     "start": "quasar dev",
